@@ -1,4 +1,5 @@
-# nbdev template
+# nb_cdk
+> Infrastructure as... notebooks...
 
-Use this template to more easily create your nbdev project.
 
+What if you could define your AWS infrastructure in python notebooks? Well you can.

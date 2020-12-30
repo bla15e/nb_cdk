@@ -1,0 +1,13 @@
+nbdev
+aws-cdk.core
+aws-cdk.aws_apigateway
+aws-cdk.aws-route53-targets
+aws-cdk.aws-autoscaling
+aws-cdk.aws_cloudfront
+aws-cdk.aws-ec2
+aws-cdk.aws-lambda
+aws-cdk.aws-s3
+aws-cdk.aws-s3-assets
+aws-cdk.aws-dynamodb
+aws-cdk.aws-route53
+aws-cdk.aws-elasticloadbalancing
